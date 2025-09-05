@@ -122,5 +122,5 @@ This project is released under the **MIT License** — free to use and modify wi
 ## 👤 Author
 
 **KenwayBlue7**  
-📧 Contact: _[Your Email Here]_  
+📧 Contact: _[niranjankj639@gmail.com]_  
 🔗 GitHub: [KenwayBlue7](https://github.com/KenwayBlue7)
